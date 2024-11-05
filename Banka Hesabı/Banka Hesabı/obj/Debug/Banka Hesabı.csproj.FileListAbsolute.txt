@@ -1,0 +1,7 @@
+C:\Users\yigit\source\repos\Banka Hesabı\Banka Hesabı\bin\Debug\Banka Hesabı.exe.config
+C:\Users\yigit\source\repos\Banka Hesabı\Banka Hesabı\bin\Debug\Banka Hesabı.exe
+C:\Users\yigit\source\repos\Banka Hesabı\Banka Hesabı\bin\Debug\Banka Hesabı.pdb
+C:\Users\yigit\source\repos\Banka Hesabı\Banka Hesabı\obj\Debug\Banka Hesabı.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Banka Hesabı\Banka Hesabı\obj\Debug\Banka Hesabı.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Banka Hesabı\Banka Hesabı\obj\Debug\Banka Hesabı.exe
+C:\Users\yigit\source\repos\Banka Hesabı\Banka Hesabı\obj\Debug\Banka Hesabı.pdb

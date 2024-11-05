@@ -1,0 +1,7 @@
+C:\Users\yigit\source\repos\Ürün Sınıfı\Ürün Sınıfı\bin\Debug\Ürün Sınıfı.exe.config
+C:\Users\yigit\source\repos\Ürün Sınıfı\Ürün Sınıfı\bin\Debug\Ürün Sınıfı.exe
+C:\Users\yigit\source\repos\Ürün Sınıfı\Ürün Sınıfı\bin\Debug\Ürün Sınıfı.pdb
+C:\Users\yigit\source\repos\Ürün Sınıfı\Ürün Sınıfı\obj\Debug\Ürün Sınıfı.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Ürün Sınıfı\Ürün Sınıfı\obj\Debug\Ürün Sınıfı.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Ürün Sınıfı\Ürün Sınıfı\obj\Debug\Ürün Sınıfı.exe
+C:\Users\yigit\source\repos\Ürün Sınıfı\Ürün Sınıfı\obj\Debug\Ürün Sınıfı.pdb

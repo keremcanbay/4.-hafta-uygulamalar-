@@ -1,0 +1,7 @@
+C:\Users\yigit\source\repos\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.exe.config
+C:\Users\yigit\source\repos\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.exe
+C:\Users\yigit\source\repos\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.pdb
+C:\Users\yigit\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.exe
+C:\Users\yigit\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.pdb

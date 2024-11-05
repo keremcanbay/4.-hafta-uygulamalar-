@@ -1,0 +1,7 @@
+C:\Users\yigit\source\repos\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.exe.config
+C:\Users\yigit\source\repos\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.exe
+C:\Users\yigit\source\repos\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.pdb
+C:\Users\yigit\source\repos\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.exe
+C:\Users\yigit\source\repos\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.pdb
